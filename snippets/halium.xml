@@ -5,7 +5,6 @@
 
   <!-- Halium additions -->
   <project path="hybris-patches" name="Halium/hybris-patches" revision="halium-11.0" />
-  <project path="vendor/halium/config" name="Halium/android_vendor_halium_config" revision="halium-11.0" />
   <project path="vendor/halium/devices" name="Halium/halium-devices" revision="halium-11.0">
       <linkfile src="." dest="halium/devices" />
   </project>
