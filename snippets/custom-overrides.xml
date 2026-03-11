@@ -6,4 +6,5 @@
   <!-- Testing Project Overrides -->
   <project path="vendor/halium/config" name="berbascum/android_vendor_halium_config" revision="fix/h11-add-minisf" remote="github-berb" />
   <project path="hybris-patches" name="berbascum/hybris-patches" revision="fix/h11-audio-flinger-inf-loop" remote="github-berb" />
+  <project path="frameworks/native" name="LineageOS/android_frameworks_native" groups="pdk" revision="fece757289f2605af7cce893e22856192a8936f3" />
 </manifest>
